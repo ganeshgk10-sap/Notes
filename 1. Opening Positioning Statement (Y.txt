@@ -1,5 +1,5 @@
 1. Opening Positioning Statement (Your “Executive Introduction”)
-Use this at the start of the interview when they say: “Tell me about yourself.”
+Use this at the start of the interview when they say: “Tell me about yourself.”	
 Example (customizable):
 “I’m a technology leader with deep experience in enterprise application architecture, large‑scale delivery, and integration strategy. Over my career, I’ve led multi-system transformation programs, established architecture governance models, and partnered closely with business and IT leadership to align technology roadmaps with organizational goals. In my current role as a Delivery Architect, I’ve driven end-to-end solution designs, modernized legacy platforms, and led cross-functional teams through complex system implementations. I’m passionate about creating scalable, secure, and future-ready architectures that support business growth.”
 This frames you as a high-level architect with leadership influence and enterprise perspective.
@@ -102,5 +102,6 @@ Technical & Execution Questions
 
 “Which integration technologies and API management platforms are currently used?”
 “What major modernization or cloud initiatives are planned?”
+
 
 These differentiate you as a director-level thinker.
